@@ -1,0 +1,1 @@
+TREE /F /A >LIST.TXT
