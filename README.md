@@ -1,6 +1,16 @@
 #   report_gather
 
+
+
 行业内领先的报告集合。
+
+
+
+## 搜索提示【2019-04-10】
+
+在chrome浏览器上点击F3，会跳出搜索框。
+
+![](https://ws3.sinaimg.cn/large/005BYqpgly1g1xau6vzeqg31c80mzqjl.jpg)
 
 > Folder PATH listing for volume studying  
 > Volume serial number is 9859-AE7A  
