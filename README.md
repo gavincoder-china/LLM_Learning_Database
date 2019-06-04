@@ -4,7 +4,7 @@
 
 行业内领先的报告集合。
 
-## 树状目录表
+## 树状目录表(推荐使用 chrome 页内搜索功能,看是否有你想要的,可以加我微信要)
 
 https://github.com/xunyegege/report_gather/blob/master/README.txt
 
