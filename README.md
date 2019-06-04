@@ -26,7 +26,7 @@ https://github.com/xunyegege/report_gather/blob/master/README.txt
 
 ## 搜索提示【2019-04-10】
 
-在chrome浏览器上点击F3，会跳出搜索框。
+在chrome浏览器上点击F3，会跳出搜索框。(mac 用户是 shift+command+G)
 
 ![](https://ws3.sinaimg.cn/large/005BYqpgly1g1xau6vzeqg31c80mzqjl.jpg)
 
