@@ -1,2 +1,0 @@
-# Story Spock
-

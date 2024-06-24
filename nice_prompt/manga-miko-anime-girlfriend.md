@@ -1,2 +1,0 @@
-# Manga Miko - Anime Girlfriend
-

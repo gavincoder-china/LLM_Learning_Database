@@ -1,2 +1,0 @@
-# Sticker Whiz
-

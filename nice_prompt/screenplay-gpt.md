@@ -1,2 +1,0 @@
-# Screenplay GPT
-

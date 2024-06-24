@@ -1,2 +1,0 @@
-# Video Script Generator
-

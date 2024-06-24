@@ -1,2 +1,0 @@
-# Starter Pack Generator
-

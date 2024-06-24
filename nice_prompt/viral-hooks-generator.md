@@ -1,2 +1,0 @@
-# Viral Hooks Generator
-

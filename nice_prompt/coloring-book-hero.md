@@ -1,2 +1,0 @@
-# Coloring Book Hero
-

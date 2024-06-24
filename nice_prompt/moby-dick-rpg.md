@@ -1,2 +1,0 @@
-# Moby Dick RPG
-

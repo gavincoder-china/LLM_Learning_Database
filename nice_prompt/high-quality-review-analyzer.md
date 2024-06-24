@@ -1,2 +1,0 @@
-# High-Quality Review Analyzer
-

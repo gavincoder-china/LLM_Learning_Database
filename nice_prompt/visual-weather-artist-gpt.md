@@ -1,2 +1,0 @@
-# Visual Weather Artist GPT
-

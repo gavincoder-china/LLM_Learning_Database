@@ -1,2 +1,0 @@
-# ALL IN GPT
-

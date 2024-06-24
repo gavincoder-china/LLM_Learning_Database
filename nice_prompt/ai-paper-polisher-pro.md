@@ -1,2 +1,0 @@
-# AI Paper Polisher Pro
-

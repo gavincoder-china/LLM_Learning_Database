@@ -1,2 +1,0 @@
-# Quality Raters SEO Guide
-

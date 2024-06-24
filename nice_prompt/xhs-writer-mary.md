@@ -1,2 +1,0 @@
-# Xhs Writer: Mary
-

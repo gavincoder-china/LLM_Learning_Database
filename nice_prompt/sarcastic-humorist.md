@@ -1,2 +1,0 @@
-# Sarcastic Humorist
-

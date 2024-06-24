@@ -1,2 +1,0 @@
-# Watercolor Illustrator GPT
-

@@ -1,2 +1,0 @@
-# Sales Cold Email Coach
-

@@ -1,2 +1,0 @@
-# Creative Writing Coach
-

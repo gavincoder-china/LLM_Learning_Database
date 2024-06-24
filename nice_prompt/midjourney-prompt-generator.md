@@ -1,2 +1,0 @@
-# MidJourney Prompt Generator
-

@@ -1,2 +1,0 @@
-# Samurai ⛩ AI summary
-

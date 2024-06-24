@@ -1,2 +1,0 @@
-# LeetCode Problem Solver
-

@@ -1,2 +1,0 @@
-# Phoneix Ink
-

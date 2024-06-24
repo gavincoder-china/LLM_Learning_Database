@@ -1,2 +1,0 @@
-# GPT Shop Keeper
-

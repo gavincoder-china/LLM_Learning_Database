@@ -1,2 +1,0 @@
-# Geopolitics GPT
-

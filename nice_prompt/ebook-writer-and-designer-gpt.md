@@ -1,2 +1,0 @@
-# Ebook Writer & Designer GPT
-

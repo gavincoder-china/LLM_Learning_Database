@@ -1,2 +1,0 @@
-# Inkspire Tattoo Bot
-
